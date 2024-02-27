@@ -1,0 +1,5 @@
+[includeIf "gitdir/i:C:/Users/User/Documents/work/"]
+    path = C:/Users/User/.gitconfig-work
+
+[includeIf "gitdir/i:C:/Users/User/Documents/personal/"]
+    path = C:/Users/User/.gitconfig-personal

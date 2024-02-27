@@ -1,0 +1,6 @@
+[user]
+	name = <Work git username>
+	email = <Work git email>
+
+[core]
+sshCommand = ssh -i ~/.ssh/id_rsa_work
